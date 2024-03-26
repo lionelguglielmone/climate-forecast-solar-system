@@ -1,7 +1,7 @@
 # Climate Forecast System
 ## Modelo del problema
-![image](./img/Modelo1.jpeg)
-![image](./img/Modelo2.jpeg)
+![image](demo/img/Modelo1.jpeg)
+![image](demo/img/Modelo2.jpeg)
 
 ## Supuestos
 * Un año tiene 365 dias
@@ -13,7 +13,7 @@
 * Si la posicion de los planetas no corresponde a ningun periodo conocido, se asume desconocido
 
 ## Diagrama de diseño
-![image](./img/Modelo3.jpeg)
+![image](demo/img/Modelo3.jpeg)
 
 
 ## Predicciones para los proximos 10 años
